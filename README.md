@@ -23,6 +23,8 @@ A responsive React application built using **React** and **Vite**. The app begin
 - **JavaScript (ES6+)**
 
 ## 👤 Author
+## Demo
+https://popxapp1.netlify.app/
 
 Developed with ❤️ by [Sahil Ansari](https://github.com/itSahil1)
 
